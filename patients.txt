@@ -1,0 +1,10 @@
+Name: Ayush
+Age: 22
+Ailment: Disk Bulge
+Treatment: Panchakarma
+
+Name: Bavesh
+Age: 23
+Ailment: Hair loss
+Treatment: Oil Treatment
+
